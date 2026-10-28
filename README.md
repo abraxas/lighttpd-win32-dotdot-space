@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/lighttpd-win32-dotdot-space">lighttpd-win32-dotdot-space</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/lighttpd-win32-dotdot-space"><strong>https://abraxaslabs.tech/research/lighttpd-win32-dotdot-space</strong></a>
+</p>
+
 
 # lighttpd-win32-dotdot-space
 
